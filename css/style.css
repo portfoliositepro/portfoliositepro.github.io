@@ -214,6 +214,7 @@ footer {
   }
   .contacts-menu {
     text-align: center;
+    margin-left: 15rem;
   }
   .contacts-menu a {
     display: inline-block;
